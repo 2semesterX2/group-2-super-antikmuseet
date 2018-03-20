@@ -37,7 +37,7 @@ $(document).ready(function(){
             b: 'pharaoh',
             c: 'a king'
         },
-        correctAnswer: 'a'
+        correctAnswer: 'b'
     },
 ];
 
