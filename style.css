@@ -149,6 +149,9 @@ width: 15%;
     margin-bottom: 1em;
 }
 
+.body2 {background-image: url(images/1760b3f9319b5adcb8d0be70f804adf9--faux-marble-countertop-stone-wallpaper.jpg);
+font: #182b36;}
+
 
 .text1 {font-size: 0.8em;
 font-family: 'Lato', sans-serif;}
@@ -156,6 +159,80 @@ font-family: 'Lato', sans-serif;}
 
 
 .image-group { width: 100%;}
+
+
+.question{
+    /*font-weight: 600; */
+    font-size: 350%;
+  font-family: 'Lato', sans-serif;
+    line-height: 1em;
+    padding: 0.5em;
+  
+}
+.answers {
+      line-height: 1em;
+    padding: 0.5em;
+     font-family: 'Lato', sans-serif;
+    font-size: 3em; 
+    display: block;
+   
+    
+    
+}
+#submit{
+    font-family: 'Lato', sans-serif;
+    font-size: 100px;
+    background-color: #e3c501;
+    color: #fff;
+    border: 0px;
+    border-radius: 3px;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+       line-height: 1em;
+    margin-left: 2em
+   
+}
+#submit:hover{
+    background-color: #c7ad04;
+    
+}
+
+.heading1 {font-size: 7em;
+   line-height: 1em;
+padding: 0.5em;}
+
+
+.home-icon {width: 20%;
+    padding: 1em;
+    margin-left: 40%;
+    
+}
+.results {text-align: center;
+   font-family: 'Lato', sans-serif;
+    margin: 0.5em;
+    font-size: 1.5em;
+}
+
+.quiz { 
+    display: blockw
+}
+
+label {
+    display: block;
+    font-size: 1.3em;
+    line-height: 2.3em;
+} 
+
+input { border: 10px;
+   width: 15%; 
+    height: 6em;}
+
+
+
+
+
+
 
 /* Footer
 -----------------------------------------------------------------------------*/
